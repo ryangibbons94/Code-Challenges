@@ -8,4 +8,4 @@ function powersOfTwo(n){
     return  arry
   }
 
-  //I tried to assign the (2**i) to a variable at first and then push it into the array but that didnt work so I looked up how to do this and it came back with this, basically. 
+  //I tried to assign the (2**i) to a variable at first and then push it into the array but that didnt work so I looked up how to do this and it came back with this, basically.    
